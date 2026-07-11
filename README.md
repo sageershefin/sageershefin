@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sageershefin
-- 👀 I’m interested in SQL server Programming, Automation and Data Science
-- 🌱 I’m currently learning Machine learning Services in MS SQL, Python Programming
+- 👀 I’m working in SQL server Programming, Automation and Data Science and insights generation
+- 🌱 I’m currently learning Machine learning and Python Programming
 - 💞️ I’m looking to collaborate on small learning excercises/projects ( 2 to 3 hours per day ) 
 - 📫 How to reach me : DM me on Linkedin  <https://www.linkedin.com/in/sageer-shefin-ab03263/>
 
